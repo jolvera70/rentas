@@ -14,9 +14,6 @@ const Home = () => {
           <Link to="/">LandingPage</Link>
         </li>
         <li>
-          <Link to="/aboutus">AboutUs</Link>
-        </li>
-        <li>
           <Link to="/listing">Listing</Link>
         </li>
         <li>
@@ -33,12 +30,6 @@ const Home = () => {
         </li>
         <li>
           <Link to="/contactpage">ContactPage</Link>
-        </li>
-        <li>
-          <Link to="/blogpage">BlogPage</Link>
-        </li>
-        <li>
-          <Link to="/blogdetails">BlogDetails</Link>
         </li>
         <li>
           <Link to="/error">Error</Link>
